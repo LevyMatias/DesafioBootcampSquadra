@@ -1,0 +1,123 @@
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\libman.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.exe
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.deps.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.runtimeconfig.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.runtimeconfig.dev.json
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\ref\GestaoCursos.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.AssemblyInfo.cs
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\staticwebassets\GestaoCursos.StaticWebAssets.Manifest.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\staticwebassets\GestaoCursos.StaticWebAssets.xml
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\scopedcss\bundle\GestaoCursos.styles.css
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csproj.CopyComplete
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\ref\GestaoCursos.dll
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.pdb
+C:\Users\andre\Downloads\brunodesafio\desafio\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.genruntimeconfig.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\appsettings.Development.json
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\appsettings.json
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.StaticWebAssets.xml
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.exe
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.deps.json
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.runtimeconfig.json
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.runtimeconfig.dev.json
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\ref\GestaoCursos.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\GestaoCursos.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Humanizer.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csproj.AssemblyReference.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.AssemblyInfoInputs.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.AssemblyInfo.cs
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csproj.CoreCompileInputs.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\scopedcss\bundle\GestaoCursos.styles.css
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\staticwebassets\GestaoCursos.StaticWebAssets.Manifest.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.RazorTargetAssemblyInfo.cache
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.csproj.CopyComplete
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\ref\GestaoCursos.dll
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.pdb
+C:\EstudosLevy\Dotnet Studies\Asp.net core\BootcampSquadra\Apicursos\obj\Debug\net5.0\GestaoCursos.genruntimeconfig.cache
